@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0FF700&width=435&lines=Hi+there+%F0%9F%91%8B+%2CThis+is+Omar+Shehata;Welcome+to+my+profile;Over+5+year+in+Software+Development;Always+learning+new+technologies+)](https://git.io/typing-svg)
 
-[![Linkedin:Shehata](https://img.shields.io/badge/-Ghanem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abdullahghanem]([https://www.linkedin.com/in/omar-shehata-77b303181/](https://www.linkedin.com/in/omar-shehata-77b303181/)))](https://www.linkedin.com/in/omar-shehata-77b303181/)
+[![Linkedin:Shehata](https://img.shields.io/badge/-Shehata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/abdullahghanem]([https://www.linkedin.com/in/omar-shehata-77b303181/](https://www.linkedin.com/in/omar-shehata-77b303181/)))](https://www.linkedin.com/in/omar-shehata-77b303181/)
 
 <!--
 **shehata412/shehata412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
