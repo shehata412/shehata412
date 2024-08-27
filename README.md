@@ -48,13 +48,13 @@ Hi, I'm Omar Shehata, Senior Software Engineer from Egypt.
 <p>📧 You can reach me at <a href="mailto:shehata412@aucegypt.edu"><b>shehata412@aucegypt.edu</b></a></p>
 
   <a width="45%" align="left" href="https://github.com/abdullahghanem/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahghanem&count_private=true&show_icons=true&theme=vue&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shehata412&count_private=true&show_icons=true&theme=vue&hide_border=true" />
   </a> 
 
 
 
-  <a width="45%" align="right" href="https://github.com/abdullahghanem/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahghanem&layout=compact&theme=vue&hide_border=true" />
+  <a width="45%" align="right" href="https://github.com/shehata412/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehata412&layout=compact&theme=vue&hide_border=true" />
   </a>
 
 <!--
