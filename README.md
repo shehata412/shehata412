@@ -53,16 +53,6 @@ Hi, I'm Omar Shehata, Senior Software Engineer from Egypt.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehata412&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shehata412&theme=github)
 
-  <a width="45%" align="left" href="https://github.com/shehata412/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shehata412&count_private=true&show_icons=true&theme=vue&hide_border=true" />
-  </a> 
-
-
-
-  <a width="45%" align="right" href="https://github.com/shehata412/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehata412&layout=compact&theme=vue&hide_border=true" />
-  </a>
-
 <!--
 **shehata412/shehata412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
