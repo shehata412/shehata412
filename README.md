@@ -48,7 +48,10 @@ Hi, I'm Omar Shehata, Senior Software Engineer from Egypt.
 <p>📧 You can reach me at <a href="mailto:shehata412@aucegypt.edu"><b>shehata412@aucegypt.edu</b></a></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shehata412&theme=github)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shehata412&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shehata412&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shehata412&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shehata412&theme=github)
 
   <a width="45%" align="left" href="https://github.com/shehata412/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shehata412&count_private=true&show_icons=true&theme=vue&hide_border=true" />
