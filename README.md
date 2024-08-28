@@ -47,6 +47,8 @@ Hi, I'm Omar Shehata, Senior Software Engineer from Egypt.
 
 <p>📧 You can reach me at <a href="mailto:shehata412@aucegypt.edu"><b>shehata412@aucegypt.edu</b></a></p>
 
+https://camo.githubusercontent.com/0fc4c44a0f7ecda8f62dbd87a1a4fb02d2fda52fde85b3f4114085ef371cbd1d/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6170706c65626f79267468656d653d676974687562
+
   <a width="45%" align="left" href="https://github.com/shehata412/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shehata412&count_private=true&show_icons=true&theme=vue&hide_border=true" />
   </a> 
